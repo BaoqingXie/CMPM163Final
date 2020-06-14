@@ -697,7 +697,7 @@ MonoBehaviour:
   _scaleMultiplier: 100
   _scaleMultiplierColor: 100
   _startScaleColor: 20
-  _bandForAngle: 4
+  _bandForAngle: 6
   angle: 0
 --- !u!1001 &339618022
 PrefabInstance:
@@ -1681,7 +1681,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 01e25cddc2b4cff4c86d75799234db76, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 6a76d182556592a4f901e5a18c647dca, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
@@ -2026,7 +2026,7 @@ MonoBehaviour:
   _scaleMultiplier: 100
   _scaleMultiplierColor: 100
   _startScaleColor: 20
-  _bandForAngle: 4
+  _bandForAngle: 6
   angle: 0
 --- !u!1 &1333940750
 GameObject:
@@ -2062,7 +2062,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   VertexDisplacementMaterial: {fileID: 2100000, guid: ddf6a693256aeb54db76bb16b61ca956,
     type: 2}
-  _bandForNoiseDensity: 4
+  _bandForNoiseDensity: 6
   _bandForColorR: 2
   _bandForColorG: 3
   _bandForColorB: 4
@@ -2074,7 +2074,7 @@ MonoBehaviour:
   density: {x: 0, y: 0, z: 0}
   smoothness: 0
   _startScale: 0
-  _scaleMultiplier: 10
+  _scaleMultiplier: 1
   _scaleMultiplierColor: 0.5
   _startScaleColor: 0.2
 --- !u!135 &1333940752
